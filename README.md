@@ -21,8 +21,7 @@ The ML Vision repository showcases various projects that leverage machine learni
 The following technologies are used in this project:
 
 - Python
-- Machine Learning Libraries (TensorFlow, PyTorch, etc.)
-- Computer Vision Libraries (OpenCV, scikit-image, etc.)
+- Machine Learning Libraries (TensorFlow)
 
 ## Features
 
@@ -30,8 +29,7 @@ This repository includes projects with the following features:
 
 - **Object Detection**: Implements algorithms and models for detecting objects within images.
 - **Image Classification**: Demonstrates techniques for classifying images into different categories.
-- **Image Segmentation**: Includes projects related to segmenting images into meaningful regions.
-- **Face Recognition**: Provides examples of face recognition algorithms and models.
+- **Image Segmentation**: Includes projects related to segmenting images into meaningful region.
 
 ## Getting Started
 
