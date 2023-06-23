@@ -8,7 +8,6 @@ This repository contains projects related to computer vision and machine learnin
 - [Technologies](#technologies)
 - [Features](#features)
 - [Getting Started](#getting-started)
-- [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -21,7 +20,8 @@ The ML Vision repository showcases various projects that leverage machine learni
 The following technologies are used in this project:
 
 - Python
-- Machine Learning Libraries (TensorFlow)
+- TensorFlow
+- Ngrok
 
 ## Features
 
