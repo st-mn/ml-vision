@@ -33,9 +33,7 @@ This repository includes projects with the following features:
 
 ## Getting Started
 
-To get started with this project, follow these steps:
-
-1. Clone the repository:
+To get started with this project, clone the repository:
 
    ```bash
    git clone https://github.com/st-mn/ml-vision.git
