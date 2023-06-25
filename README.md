@@ -35,9 +35,9 @@ This repository includes projects with the following features:
 
 To get started with this project, clone the repository:
 
-   ```bash
+```bash
    git clone https://github.com/st-mn/ml-vision.git
-    ```
+```
 
 ## Contributing
 
