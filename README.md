@@ -1,4 +1,4 @@
-# ML Vision
+# ML Vision Example
 
 This repository contains projects related to computer vision and machine learning techniques for image analysis and processing.
 
